@@ -51,6 +51,5 @@ Future Work:
 - Build predictive models to identify factors affecting patient no-shows
 
 Mounika A
-
 Aspiring Data Analyst | Python | SQL | Power BI | Excel
 
